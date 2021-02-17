@@ -77,7 +77,7 @@ calculadora ('-',1,1);
 calculadora ('*',1,1);
 
 
-/* 
+/* Nivel 2 calculadora*/
 
 function calculadora () {
 
@@ -110,4 +110,4 @@ function calculadora () {
         alert("el resultado es: "+resultado);
     }
     
-  */
+  
