@@ -1,0 +1,101 @@
+#container{
+    position:relative;
+    display: inline;
+    padding:12px 36px;
+    margin:10px 10px;
+    color: rgb(253, 228, 4);
+    text-decoration:none;
+    font-size: 18px;
+}
+
+
+body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    min-height:100vh;
+    flex-direction:column;
+    background-color: blueviolet;
+}
+#button1 {
+    position:relative;
+    display: inline;
+    padding:12px 36px;
+    margin:10px 0;
+    background-color: rgb(228, 245, 75);
+    text-decoration:none;
+    font-size: 18px;
+    transition-duration: 0.1s;
+    border-radius: 10px;
+    border-style: none;
+}
+#button1:hover {
+    background-color: #f8ab04; /* Green */
+    color: white;
+}
+
+#button2 {
+    position:relative;
+    display: inline;
+    padding:12px 36px;
+    margin:10px 0;
+    background-color: rgb(228, 245, 75);
+    text-decoration:none;
+    font-size: 18px;
+    transition-duration: 0.1s;
+    border-radius: 10px;
+    border-style: none;
+}
+#button2:hover {
+    background-color: #f8ab04; /* Green */
+    color: white;
+}
+#button3 {
+    position:relative;
+    display: inline;
+    padding:12px 36px;
+    margin:10px 0;
+    background-color: rgb(228, 245, 75);
+    text-decoration:none;
+    font-size: 18px;
+    transition-duration: 0.1s;
+    border-radius: 10px;
+    border-style: none;
+}
+#button3:hover {
+    background-color: #f8ab04; /* Green */
+    color: white;
+}
+#button4 {
+    position:relative;
+    display: inline;
+    padding:12px 36px;
+    margin:10px 0;
+    background-color: rgb(228, 245, 75);
+    text-decoration:none;
+    font-size: 18px;
+    transition-duration: 0.1s;
+    border-radius: 10px;
+    border-style: none;
+}
+#button4:hover {
+    background-color: #f8ab04; /* Green */
+    color: white;
+  }
+#button5 {
+    position:relative;
+    display: inline;
+    padding:12px 36px;
+    margin:10px 0;
+    background-color: rgb(228, 245, 75);
+    text-decoration:none;
+    font-size: 18px;
+    transition-duration: 0.1s;
+    border-radius: 10px;
+    border-style: none;
+}
+
+#button5:hover {
+    background-color: #f8ab04; /* Green */
+    color: white;
+  }
